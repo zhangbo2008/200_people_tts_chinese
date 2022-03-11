@@ -1,0 +1,16 @@
+**/.pre-commit-config.yaml
+**/*.ipynb
+*.wav
+BZNSYP
+ckpt
+log
+nohup.out
+obsolete
+output
+output_no_hanzi
+results
+samples
+synth
+**/.ipynb_checkpoints/**
+**/__pycache__/
+mtts.egg-info/

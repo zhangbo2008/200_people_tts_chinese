@@ -1,0 +1,501 @@
+# The tone lableing as used in the Mandarin tonal variations.
+# Prosody labeling instructions:
+# %: The boundary after prosodic word and the minor prosodic phrase.
+# $: The major prosodic phrase respectively, represented the boundary for topic turning and the intonation boundary.
+
+SSB00090249|geng4 zhi3 % zhe4 shi4 % jia1 zhang3 % ji2 % she4 hui4 de5 % ze2 ren4 $|更指%这是%家长%及%社会的%责任$
+SSB00090212|kai1 che1 % man4 man4 % qian2 xing2 $|开车%慢慢%前行$
+SSB00090182|xiang3 yao4 % er4 ai4 er2 ken3 de5 % ge1 $|想要%二艾尔肯的%歌$
+SSB00090486|ci3 di4 de5 % guo2 wang2 % shi4 yi2 ge4 % tuo2 bei4 % xiao2 lao3 tou2 $|此地的%国王%是一个%驼背%小老头$
+SSB00090323|wo3 % kan4 dao4 % yi4 ben3 shu1 % he2 % yi4 duo3 hua1 $|我%看到%一本书%和%一朵花$
+SSB00090189|chao2 xian2 % yi3 jing1 xiang4 % lian2 he2 guo2 % ti2 jiao1 le5 % yi2 fen4 % zheng4 shi4 de5 % tou2 su4 % wen2 jian4 $|朝鲜%已经向%联合国%提交了%一份%正式的%投诉%文件$
+SSB00090213|wo2 % yi4 zhi2 % hen2 xiang3 % da1 huo3 che1 $|我%一直%很想%搭火车$
+SSB00090275|wei1 ruan2 % ye3 zuo4 le5 % xiang1 ying4 de5 % an1 pai2 $|微软%也做了%相应的%安排$
+SSB00090245|wu3 ba1 % si4 ling2 % san1 er4 % wu3 liu4 $|五八%四零%三二%五六$
+SSB00090472|er4 shou3 fang2 % shi4 chang3 % san1 ji4 du4 % ying1 gai1 % bu2 hui4 % wei2 chi2 % chi2 xu4 de5 % kuai4 su4 % xiao1 shou4 % zeng1 zhang3 $|二手房%市场%三季度%应该%不会%维持%持续的%快速%销售%增长$
+SSB00090373|kang1 si1 % nong2 feng1 % chan2 pin3 % zhuan1 mai4 dian4 $ tang2 % cai4 lu4 % fen1 dian4 $|康思%农蜂%产品%专卖店$唐%蔡路%分店$
+SSB00090120|er4 jiu3 san1 % san1 ling2 ling2 % si4 jiu3 $|二九三%三零零%四九$
+SSB00090317|wo3 zhi1 dao4 % ni3 % xian4 zai4 % hen3 nan2 xiang1 xin4 % zhe4 shi4 % shi4 shi2 $|我知道%你%现在%很难相信%这是%事实$
+SSB00090412|xiang3 yao4 % ji2 ya3 de5 ge1 $|想要%吉雅的歌$
+SSB00090350|hua1 kai1 % kan1 zhe2 % zi4 you3 shi2 $|花开%堪折%自有时$
+SSB00090098|wo3 zhen1 de5 % yao4 qu4 % kan4 kan5 % zhe4 ge4 % mai4 ke4 er3 le5 $|我真的%要去%看看%这个%迈克尔了$
+SSB00090306|yi2 qie4 % dou1 shi4 % yu3 sheng1 ju4 lai2 de5 $|一切%都是%与生俱来的$
+SSB00090479|hai2 % an1 pai2 % shen2 mi4 nan2 $ ming2 xing1 % da4 ka1 % wei4 % xuan2 shou3 % jia1 you2 % zhu4 wei1 $|还%安排%神秘男$明星%大咖%为%选手%加油%助威$
+SSB00090483|ta1 % fan3 dui4 % wo3 % dui4 yu2 % dian4 shi4 % hui4 yin2 qi3 % bao4 li4 % shi4 jian4 de5 % kan4 fa3 $|他%反对%我%对于%电视%会引起%暴力%事件的%看法$
+SSB00090516|lv3 cheng2 % jie2 shu4 le5 $|旅程%结束了$
+SSB00090413|hu2 nan2 % mi2 fen3 % wu3 han4 shi4 % jiang1 an4 qu1 % nong2 ye4 ju2 nan2 $|湖南%米粉%武汉市%江岸区%农业局南$
+SSB00090021|si4 jiu3 qi1 liu4 % liu4 er4 % ba1 san1 $|四九七六%六二%八三$
+SSB00090013|yin1 wei4 % wo3 men5 % zai4 % li3 mian4 $|因为%我们%在%里面$
+SSB00090215|zhong1 lian2 % da4 yao4 fang2 % yu4 cai2 % si4 cun1 bei3 $|中联%大药房%育才%四村北$
+SSB00090129|fu4 mu5 % ba3 zi2 nv3 % dang4 cheng2 % shou3 zhong1 de5 % bao3 bei4 $ er2 % dao3 zhi4 % ta1 men5 % mei2 you3 % jia4 zhi2 guan1 $|父母%把子女%当成%手中的%宝贝$而%导致%他们%没有%价值观$
+SSB00090235|na4 % wei1 lian2 $ ye3 zhi1 dao4 % qi2 % wei1 lian2 % suo2 you3 ren2 de5 $|那%威廉$也知道%其%威廉%所有人的$
+SSB00090517|xiang3 yao4 % li3 chen1 de5 ge1 $|想要%李琛的歌$
+SSB00090488|yi2 wei4 % shi4 ji2 % wai4 hui4 ju2 % guan1 yuan2 % gao4 su4 % di4 yi1 % cai2 jing1 % ri4 bao4 % ji4 zhe3 $|一位%市级%外汇局%官员%告诉%第一%财经%日报%记者$
+SSB00090192|shen1 zhen4 de5 % tong2 bi2 % zhang3 fu2 % bai3 fen1 zhi1 % shi2 qi1 % dian3 san1 $|深圳的%同比%涨幅%百分之%十七%点三$
+SSB00090489|zai4 % wei1 si1 kang1 % xin1 % yi2 fu1 % yao4 % yi2 bei4 zi5 % xing4 fu2 $|在%威斯康%辛%一副%要%一辈子%幸福$
+SSB00090037|shang4 hai2 % pu3 dong1 % guo2 ji4 % nv2 zi3 % ban4 cheng2 % ma3 la1 song1 $|上海%浦东%国际%女子%半程%马拉松$
+SSB00090105|ni3 % ke2 yi3 % cheng1 wang2 cheng1 ba4 $|你%可以%称王称霸$
+SSB00090484|xiang3 yao4 % chen2 sheng1 de5 % ge1 $|想要%陈升的%歌$
+SSB00090252|xiang3 yao4 % da4 zhe2 de5 ge1 $|想要%大哲的歌$
+SSB00090399|wo2 % yi3 jing1 % qia1 duan4 le5 $|我%已经%掐断了$
+SSB00090169|kan4 lai2 % na4 jiu4 shi4 % bao2 xian3 xiang1 le5 $|看来%那就是%保险箱了$
+SSB00090257|gong1 ren2 % jia1 gu4 % ta1 xian4 % wai4 hu4 lan2 $|工人%加固%塌陷%外护栏$
+SSB00090374|ce4 lve4 de5 % shu1 ji2 % you3 shen2 me5 $|策略的%书籍%有什么$
+SSB00090304|wo3 % zhen1 de5 % hen2 zou3 yun4 $|我%真的%很走运$
+SSB00090299|xie4 tian1 xie4 di4 % you2 ni2 si1 % shou2 gu3 % bu2 shi4 % na4 me5 hao3 $|谢天谢地%尤尼丝%手鼓%不是%那么好$
+SSB00090141|wo3 shuo1 guo4 % shi4 % ma1 ma1 % cheng2 jiu4 le5 % jin1 tian1 de5 ni3 $|我说过%是%妈妈%成就了%今天的你$
+SSB00090016|ma3 wen2 long2 % chu1 yan3 de5 % dian4 shi4 ju4 % you3 shen2 me5 $|马文龙%出演的%电视剧%有什么$
+SSB00090207|wo3 men5 % zhou1 mo4 % jiu4 % ke2 yi3 % wan2 gong1 $|我们%周末%就%可以%完工$
+SSB00090015|bu4 jin3 % zai4 % sai4 shi4 % re4 shen1 % jie1 duan4 % an1 pai2 % xing2 nan2 % jiao4 lian4 % dai4 dong4 % re4 shen1 $|不仅%在%赛事%热身%阶段%安排%型男%教练%带动%热身$
+SSB00090382|mian4 dui4 % xian4 jin1 % liu2 % duan4 lie4 de5 % kao3 yan4 $|面对%现金%流%断裂的%考验$
+SSB00090070|ni3 de5 % ren2 sheng1 % di4 yi1 piao4 $|你的%人生%第一票$
+SSB00090340|ling2 zhang3 % quan2 guo2 % er4 shou3 % zhu4 zhai2 % shi4 chang3 $|领涨%全国%二手%住宅%市场$
+SSB00090300|ni2 xiang3 % ting1 dao4 % shen2 me5 $|你想%听到%什么$
+SSB00090243|zhe4 jiang1 de5 % pin3 pai2 % you3 shen2 me5 $|浙江的%品牌%有什么$
+SSB00090403|geng4 he2 kuang4 % na4 xie1 % di3 yu4 % feng1 xian3 % ruo4 de5 % zhong1 xiao3 % hang2 qi3 $|更何况%那些%抵御%风险%弱的%中小%航企$
+SSB00090144|zhong1 xi1 % qi3 ye4 % you3 shen2 me5 $|中西%企业%有什么$
+SSB00090289|pu2 kou3 % di4 ming2 % you3 shen2 me5 $|浦口%地名%有什么$
+SSB00090372|xiong1 ya2 li4 % ren2 wu4 % you3 shen2 me5 $|匈牙利%人物%有什么$
+SSB00090107|nu3 li4 % xue2 xi2 $ ru2 he2 % cheng2 wei2 % yi4 ming2 % liu2 xing2 % ge1 shou3 de5 % ji3 ge4 % xiao3 shi2 $|努力%学习$如何%成为%一名%流行%歌手的%几个%小时$
+SSB00090355|jiu2 jiu3 % jia1 chu2 $|久久%家厨$
+SSB00090380|wo2 xiang3 zai4 % sen1 lin2 li2 % lv3 xing2 % hui4 hen3 bang4 $|我想在%森林里%旅行%会很棒$
+SSB00090177|yu3 % qun2 zhong4 % sheng1 huo2 % xi1 xi5 % xiang1 guan1 $|与%群众%生活%息息%相关$
+SSB00090462|piao1 liu2 % jiao4 shi4 %|漂流%教室%
+SSB00090040|jian4 li4 % hang2 ye4 % zi4 lv4 de5 % ji4 shu4 % biao1 zhun3 $|建立%行业%自律的%技术%标准$
+SSB00090067|xiang3 yao4 % deng4 li4 jun1 de5 % ge1 $|想要%邓丽君的%歌$
+SSB00090078|hu1 shi4 de5 % xiao3 xue2 % you3 shen2 me5 $|呼市的%小学%有什么$
+SSB00090197|xiang3 yao4 % huang2 bo2 de5 ge1 $|想要%黄渤的歌$
+SSB00090266|ru2 % you3 de5 % wu4 ye4 % gong1 si1 $ bu4 an4 % gui1 ding4 % she4 zhi4 % wu4 ye4 % shou1 fei4 % gong1 shi4 pai2 $|如%有的%物业%公司$不按%规定%设置%物业%收费%公示牌$
+SSB00090203|zi3 cai4 % cai4 pu2 % you3 shen2 me5 $|紫菜%菜谱%有什么$
+SSB00090211|xiang3 yao4 % dong4 li4 % huo3 che1 de5 ge1 $|想要%动力%火车的歌$
+SSB00090095|zhong1 guan1 % cun1 wei3 % wei3 yuan2 hui4 % zhu3 ren4 % guo1 hong2 $ zai4 % cheng2 li4 % da4 hui4 shang4 % zhi3 chu1 $|中关%村委%委员会%主任%郭洪$在%成立%大会上%指出$
+SSB00090416|zai4 lai2 % zhe4 li3 % zhi1 qian2 % ni3 shi4 % wei4 shei2 % zuo4 shi4 de5 $|再来%这里%之前%你是%为谁%做事的$
+SSB00090385|qiang2 ti3 % qiao1 le5 % yi2 ge4 dong4 $|墙体%敲了%一个洞$
+SSB00090347|xin1 wen2 jie4 de5 % ci2 hui4 % you3 shen2 me5 $|新闻界的%词汇%有什么$
+SSB00090271|zhuang1 nu2 % zuo4 ci2 de5 % ge1 qu2 % you3 shen2 me5 $|庄奴%作词的%歌曲%有什么$
+SSB00090514|wo2 % yi3 wei2 % ke1 lin2 si3 le5 $|我%以为%柯林死了$
+SSB00090063|tang1 mi3 shang4 % fei1 ji1 shi2 % wen4 wo2 % gan3 jue2 % ru2 he2 $|汤米上%飞机时%问我%感觉%如何$
+SSB00090092|wu3 han4 shi4 % ren2 shi4 % kao3 shi4 % zhong1 xin1 % kao3 shi4 % bao4 ming2 dian3 $|武汉市%人事%考试%中心%考试%报名点$
+SSB00090501|ta1 jiao1 wo3 % yao4 % fang4 yan3 % quan2 qiu2 $|他教我%要%放眼%全球$
+SSB00090050|you3 shi2 % ni2 shou2 li3 % na2 dao4 % shen2 me5 pai2 $|有时%你手里%拿到%什么牌$
+SSB00090174|zhi4 zuo3 % zhong1 yi1 % zhen3 suo3 $|志佐%中医%诊所$
+SSB00090324|jing1 zhou1 de5 % xue2 xiao4 % you3 shen2 me5 $|荆州的%学校%有什么$
+SSB00090097|si4 chuan1 % hong2 shu4 % gao1 qiang2 du4 % biao1 jian4 chang3 $|四川%宏术%高强度%标件厂$
+SSB00090459|guang3 dong1 de5 % zuo4 jia1 % you3 shen2 me5 $|广东的%作家%有什么$
+SSB00090111|ning2 xia4 de5 % cun1 zhuang1 % you3 shen2 me5 $|宁夏的%村庄%有什么$
+SSB00090066|bei3 jing1 % de2 sheng4 men2 % wa1 keng1 % dai4 biao3 % bei4 % gong1 su4 $|北京%德胜门%挖坑%代表%被%公诉$
+SSB00090480|xiang3 yao4 % gao1 sheng4 % mei3 de5 ge1 $|想要%高胜%美的歌$
+SSB00090135|piao1 liu2 de5 % ai4 qing2 % guo2 yu2 ban3 $|漂流的%爱情%国语版$
+SSB00090391|zun1 yi4 de5 % ren2 wu4 % you3 shen2 me5 $|遵义的%人物%有什么$
+SSB00090238|rao2 xue3 % man4 shu1 ji2 % you3 shen2 me5 $|饶雪%漫书籍%有什么$
+SSB00090338|xiang3 yao4 % fei4 yu4 qing1 de5 % ge1 $|想要%费玉清的%歌$
+SSB00090447|yang2 jia1 % feng1 wei4 $ cai4 jia1 tian2 dian4 $|杨家%风味$蔡家田店$
+SSB00090280|hua1 qiao2 % xiao3 xue2 $|花桥%小学$
+SSB00090155|xi4 tong3 % she4 zhi4 % yao1 qiu2 % dou1 xu1 % shang4 bao4 % gei2 zhu3 % yong4 hu4 $|系统%设置%要求%都需%上报%给主%用户$
+SSB00090161|yin1 wei4 % xiao2 qi3 ye4 de5 % cheng2 shou4 % neng2 li4 % you3 xian4 $|因为%小企业的%承受%能力%有限$
+SSB00090434|yi1 di2 si1 % shi4 bu2 shi4 % xia4 yi2 ge4 $|伊迪丝%是不是%下一个$
+SSB00090435|dao4 % wang3 guan1 % deng3 % zi1 yuan2 % shou4 xian4 de5 % she4 bei4 $|到%网关%等%资源%受限的%设备$
+SSB00090440|dan4 % yue1 han4 % kan4 qi3 lai2 % shi4 ge5 % bu2 cuo4 de5 % hai2 zi5 $|但%约翰%看起来%是个%不错的%孩子$
+SSB00090494|bang1 zhu4 % wo3 dui4 % shen1 bian1 de5 ren2 % shuo1 chu1 % zhu4 fu2 de5 hua4 $|帮助%我对%身边的人%说出%祝福的话$
+SSB00090045|xiang3 yao4 % lao3 lang2 de5 ge1 $|想要%老狼的歌$
+SSB00090237|qing3 yong4 % yi4 chang2 % ma3 la1 song1 % lai2 % zhang1 yang2 % zi4 ji3 de5 % du2 te4 % feng1 cai3 ba5 $|请用%一场%马拉松%来%张扬%自己的%独特%风采吧$
+SSB00090188|jie2 sen1 % ke3 shi4 % jian4 zhu4 % da4 shi1 $|杰森%可是%建筑%大师$
+SSB00090017|bei4 zun1 wei4 % nv3 shen2 % shi4 % mo4 da4 de5 % rong2 yao4 $|被尊为%女神%是%莫大的%荣耀$
+SSB00090311|zhi3 shi4 % kui1 sun3 duo1 % kui1 sun2 % shao3 de5 % qu1 bie2 $|只是%亏损多%亏损%少的%区别$
+SSB00090089|xiang3 yao4 % hou4 xuan2 de5 ge1 $|想要%后弦的歌$
+SSB00090055|ni3 % zhi1 dao4 % zhe4 li3 de5 % gui1 ju4 $ wo3 % bang1 zhe5 % qi2 cao3 de5 $|你%知道%这里的%规矩$我%帮着%起草的$
+SSB00090476|dan4 % wei1 lian2 shuo1 $ zhe4 ci4 % wei1 lian2 qu4 $|但%威廉说$这次%威廉去$
+SSB00090087|tong2 ji4 tang2 % yu4 cai2 lu4 $|同济堂%育才路$
+SSB00090132|ba1 wu3 % er4 si4 % si4 ling2 % ba1 wu3 $|八五%二四%四零%八五$
+SSB00090058|jiu4 xiang4 zai4 % zhua1 % zhong1 yao4 $|就像在%抓%中药$
+SSB00090312|ji4 zhe3 % liu2 shuang1 % shi2 xi2 sheng1 $ xia4 duan1 xia2 % chang2 sha1 % bao4 dao4 $|记者%刘双%实习生$夏端霞%长沙%报道$
+SSB00090496|dan4 % wei1 lian2 % shi4 % wo3 de5 % hun2 dan4 $|但%威廉%是%我的%混蛋$
+SSB00090035|xiang3 yao4 % cao2 ge2 de5 ge1 $|想要%曹格的歌$
+SSB00090079|wu3 qi1 ling2 % san1 si4 % ling2 qi1 liu4 $|五七零%三四%零七六$
+SSB00090330|shang4 shi4 % gong1 si1 % jing1 ying2 % huo2 dong4 de5 % xian4 jin1 liu2 % wei2 % fu4 si4 shi2 % yi4 yuan2 $|上市%公司%经营%活动的%现金流%为%负四十%亿元$
+SSB00090088|cheng1 $ gai1 pian4 % suo3 % miao2 shu4 de5 % nei4 rong2 % jiu4 shi4 zai4 % tiao1 qi3 % yi4 chang3 % zhan4 zheng1 $|称$该片%所%描述的%内容%就是在%挑起%一场%战争$
+SSB00090427|li3 xin1 % ping2 de5 % shu1 ji2 % you3 shen2 me5 $|李欣%频的%书籍%有什么$
+SSB00090360|zhong1 guo2 % chuan2 dong1 % xie2 hui4 % fu4 hui4 zhang3 % zhang1 shou3 guo2 % xiang4 % ji4 zhe2 % biao3 shi4 $|中国%船东%协会%副会长%张守国%向%记者%表示$
+SSB00090267|bu2 dai4 % xiang4 ji1 % ke3 xi1 le5 $|不带%相机%可惜了$
+SSB00090201|xiang3 yao4 % guo1 fu4 cheng2 de5 % ge1 $|想要%郭富城的%歌$
+SSB00090196|wo3 % xi1 wang4 $ ni3 neng2 % zao2 dian3 % ren4 shi5 dao4 $|我%希望$你能%早点%认识到$
+SSB00090368|wei1 ruan3 de5 % ying2 shou1 % da4 tou2 % lai2 zi4 % she4 bei4 % yu3 % xiao1 fei4 zhe3 % shou4 quan2 % bu4 men2 $|微软的%营收%大头%来自%设备%与%消费者%授权%部门$
+SSB00090313|dan4 shi4 % yi2 ge4 % ke3 % hui2 shou1 de5 % zhi3 jin1 % hui4 % zen3 me5 yang4 $|但是%一个%可%回收的%纸巾%会%怎么样$
+SSB00090230|jin1 xing1 % tu3 cai4 guan3 $|金星%土菜馆$
+SSB00090388|xiang3 yao4 % feng4 fei1 fei1 de5 ge1 $|想要%凤飞飞的歌$
+SSB00090409|yi2 you3 % chao1 guo4 % qi1 cheng2 de5 % cheng2 shi4 % fang2 jia4 % kai1 shi3 % qi2 wen3 % hui2 sheng1 $|已有%超过%七成的%城市%房价%开始%企稳%回升$
+SSB00090327|di2 bai4 % jiu3 dian4 % you3 shen2 me5 $|迪拜%酒店%有什么$
+SSB00090456|xiang3 yao4 % cai4 jian4 ya3 de5 % ge1 $|想要%蔡健雅的%歌$
+SSB00090137|zhong1 guan1 cun1 % gu3 quan2 zhong4 % chou2 lian2 meng2 % cheng2 li4 % sou1 hu2 % ke1 ji4 $|中关村%股权众%筹联盟%成立%搜狐%科技$
+SSB00090223|huo4 xu3 % you4 shi4 % wo3 de5 % bu2 dui4 $|或许%又是%我的%不对$
+SSB00090131|zhang1 jia1 jie4 de5 % yan3 yuan2 % you3 shen2 me5 $|张家界的%演员%有什么$
+SSB00090198|ni3 de5 % zhi2 ze2 % jin3 xian4 yu2 % ci3 le5 $|你的%职责%仅限于%此了$
+SSB00090103|you2 % ji4 si1 % xia4 da2 % pan4 jue2 $|由%祭司%下达%判决$
+SSB00090217|shi1 gong1 % qi3 ye4 % you3 shen2 me5 $|施工%企业%有什么$
+SSB00090515|qiao2 ta1 % li4 hai4 de5 lei3 $|瞧他%厉害的咧$
+SSB00090402|tui4 yi4 % yun4 dong4 yuan2 % you3 shen2 me5 $|退役%运动员%有什么$
+SSB00090478|yu3 % dang1 jin1 % ji4 shu4 % shi2 dai4 % xiang1 bi2 % xian3 de5 % ge2 ge2 % bu2 ru4 de5 % huan3 man4 de5 % chuang2 tong3 % fang1 fa3 $|与%当今%技术%时代%相比%显得%格格%不入的%缓慢的%传统%方法$
+SSB00090122|wei1 ruan3 % dou1 shi4 % yi1 kao4 % shou4 mai4 % ruan3 jian4 % zhuan4 qian2 $|微软%都是%依靠%售卖%软件%赚钱$
+SSB00090430|ta1 % tui1 ce4 % zi4 ji2 $ yi3 jing1 % fa1 xian4 le5 % yi4 tiao2 % fei1 hua4 % huo2 dong4 % chang1 jue2 de5 % jie1 dao4 $|他%推测%自己$已经%发现了%一条%非法%活动%猖獗的%街道$
+SSB00090246|xue2 xiao4 % he2 ta1 de5 % qian2 cai2 % hen2 shao3 % fen1 jia1 $|学校%和它的%钱财%很少%分家$
+SSB00090232|kan4 lai2 % ai2 xi4 bao1 % kuo4 san4 de5 $|看来%癌细胞%扩散得$
+SSB00090482|lang2 fang1 de5 % di4 ming2 % you3 shen2 me5 $|廊坊的%地名%有什么$
+SSB00090414|he2 yun4 shi1 % ge1 qu3 % you3 shen2 me5 $|何韵诗%歌曲%有什么$
+SSB00090094|gai1 di4 % bei3 bu4 % du2 te4 de5 % kou3 yin1 $|该地%北部%独特的%口音$
+SSB00090396|wu2 wu3 % liu4 ling2 % liu4 liu4 % liu4 ling2 $|五五%六零%六六%六零$
+SSB00090124|shou4 shang1 % shi4 gu4 % you3 shen2 me5 $|受伤%事故%有什么$
+SSB00090001|ci4 hou4 % lao3 po2 % shi4 % lao3 gong1 de5 % ze2 ren4 $|伺候%老婆%是%老公的%责任$
+SSB00090026|qiang1 tang2 li2 % you3 % yi4 ke1 % zi3 dan4 $|枪膛里%有%一颗%子弹$
+SSB00090139|you3 shei2 % bi2 wo3 men5 % geng4 hen4 ta1 $|有谁%比我们%更恨他$
+SSB00090173|qi1 si4 % jiu3 ba1 er4 % qi1 qi1 qi1 $|七四%九八二%七七七$
+SSB00090218|wu3 han4 shi4 % wu4 jia4 ju2 % jia4 ge2 % shen3 pi1 % fu2 wu4 % chuang1 kou3 $|武汉市%物价局%价格%审批%服务%窗口$
+SSB00090142|xiang3 yao4 % huo4 zun1 de5 ge1 $|想要%霍尊的歌$
+SSB00090370|wo3 zhi1 dao4 % wo3 mei2 % chao2 xing2 ni3 $|我知道%我没%吵醒你$
+SSB00090171|hen3 duo1 % hang2 qi3 $ kai1 shi3 % chai1 chuan2 % mai4 tie3 $|很多%航企$开始%拆船%卖铁$
+SSB00090077|wu3 er4 wu3 % si4 % jiu3 ling2 % jiu3 qi1 $|五二五%四%九零%九七$
+SSB00090448|wa1 keng1 % dai4 biao3 $ bei4 % gong1 su4 $ si1 wa1 % di4 xia4 shi4 % zhi4 % de2 nei4 % da4 jie1 % ta1 xian4 $|挖坑%代表$被%公诉$私挖%地下室%致%德内%大街%塌陷$
+SSB00090118|ran2 hou4 % wo3 jiu4 % kai1 shi3 ku1 $|然后%我就%开始哭$
+SSB00090175|zai4 % wen2 yi4 % gong1 zuo4 % zuo4 tan2 hui4 % zhao4 kai1 % yi4 zhou1 nian2 % zhi1 ji4 $|在%文艺%工作%座谈会%召开%一周年%之际$
+SSB00090068|ou3 xiang4 % dong4 hua4 % you3 shen2 me5 $|偶像%动画%有什么$
+SSB00090136|yi4 ban1 % yi4 tai2 % she4 bei4 de5 % shou4 quan2 fei4 $ zai4 % wu2 mei3 yuan2 % dao4 % shi2 wu2 % mei3 yuan2 % zhi1 jian1 $|一般%一台%设备的%授权费$在%五美元%到%十五%美元%之间$
+SSB00090291|xiang3 yao4 % jie1 da4 huan1 xi3 de5 % ge1 $|想要%皆大欢喜的%歌$
+SSB00090492|na4 dui4 % nian2 qing1 ren2 % zhi1 jian1 % jiu1 jing4 shi4 % zen3 me5 % hui2 shi4 $|那对%年轻人%之间%究竟是%怎么%回事$
+SSB00090288|yi4 dan1 % san1 qian1 wan4 % mei3 yuan2 de5 % bing4 gou4 % xiang4 mu4 $|一单%三千万%美元的%并购%项目$
+SSB00090422|xiang3 yao4 % huang2 lei3 de5 % ge1 $|想要%黄磊的%歌$
+SSB00090316|jin1 feng1 da2 % bin1 guan3 $|金丰达%宾馆$
+SSB00090437|san1 ge4 % huo3 qiang1 % shou3 ren2 wu4 % you3 shen2 me5 $|三个%火枪%手人物%有什么$
+SSB00090007|shan1 hai3 jin1 % di4 min2 % you3 shen2 me5 $|山海经%地名%有什么$
+SSB00090065|wo3 dui4 ni2 % hao3 dui4 % fu2 lang3 ji1 hao3 $|我对你%好对%弗朗姬好$
+SSB00090426|bai3 li4 er5 % bu4 de2 % bu4 cong2 $|百丽儿%不得%不从$
+SSB00090505|ta1 % dao4 di3 % shi4 zuo4 % shen2 me5 de5 $|他%到底%是做%什么的$
+SSB00090014|ji4 xiao3 lan2 % shu1 ji2 % you3 shen2 me5 $|纪晓岚%书籍%有什么$
+SSB00090226|xiang3 yao4 % cai4 qin2 de5 ge1 $|想要%蔡琴的歌$
+SSB00090512|bu4 ke2 yi3 % jiao4 % zhu4 yuan4 % yi1 shi1 $|不可以%叫%住院%医师$
+SSB00090305|zhong1 jia1 xin1 % ma3 jun4 wei3 % chu1 yan3 de5 % dian4 shi4 ju4 % you3 shen2 me5 $|钟嘉欣%马浚伟%出演的%电视剧%有什么$
+SSB00090325|da4 shi2 dai4 de5 % yan3 yuan2 % you3 shen2 me5 $|大时代的%演员%有什么$
+SSB00090276|bu4 jing1 % yi4 jian1 % ji4 lu4 xia4 le5 % lu2 ka3 si1 % da3 zi4 shi2 de5 % zhen4 dong4 $|不经%意间%记录下了%卢卡斯%打字时的%震动$
+SSB00090415|yao2 gun3 de5 % ge1 qu2 % you3 shen2 me5 $|摇滚的%歌曲%有什么$
+SSB00090487|gui4 zhou1 de5 % jiao4 shou4 % you3 shen2 me5 $|贵州的%教授%有什么$
+SSB00090086|zhe4 zhi3 % tu4 zi5 % ying1 gai1 % gui1 wo3 $|这只%兔子%应该%归我$
+SSB00090210|zen3 me5 % yi4 tuan2 zao1 le5 $|怎么%一团糟了$
+SSB00090450|jiu4 % yi4 nian2 lai2 $ wen2 yi4 % gong1 zuo4 de5 % zhong4 dian3 % liang4 dian3 % nan2 dian3 % he2 % she4 hui4 % guan1 zhu4 % re4 dian3 $|就%一年来$文艺%工作的%重点%亮点%难点%和%社会%关注%热点$
+SSB00090320|dian3 xing2 % ji1 gou4 % you3 shen2 me5 $|典型%机构%有什么$
+SSB00090348|na4 % tiao2 he2 % zu2 zhi3 le5 % sen1 lin2 % da4 huo3 de5 % man4 yan2 $|那%条河%阻止了%森林%大火的%蔓延$
+SSB00090052|hai2 shi4 rang4 % zhang4 fu5 % ji4 xu4 % tang1 mi3 de5 % mei3 meng4 ne5 $|还是让%丈夫%继续%汤米的%美梦呢$
+SSB00090335|bin1 zhou1 de5 % jiao4 shi4 % you3 shen2 me5 $|滨州的%教师%有什么$
+SSB00090377|xi1 er3 % ren4 wei2 $ bu4 fen4 % jie3 jue2 % fang1 fa3 % zai4 yu2 % geng4 hao3 de5 % guan2 li3 % he2 % pei2 xun4 $|希尔%认为$部分%解决%方法%在于%更好的%管理%和%培训$
+SSB00090367|xiang3 yao4 % chen2 xue2 dong1 de5 % ge1 $|想要%陈学冬的%歌$
+SSB00090180|liu4 yue4 % quan2 guo2 % er4 shou3 % zhu4 zhai2 % shi4 chang3 % hui2 nuan3 % qu1 shi4 $ tong2 yang4 % zai4 % yan2 xu4 $|六月%全国%二手%住宅%市场%回暖%趋势$同样%在%延续$
+SSB00090339|piao4 liang4 de5 % shi4 $|漂亮的%事$
+SSB00090332|jin1 ri4 cheng2 % shu1 ji2 % you3 shen2 me5 $|金日成%书籍%有什么$
+SSB00090125|xiang3 yao4 % chen2 shu1 ye4 de5 % ge1 $|想要%陈淑烨的%歌$
+SSB00090023|di4 chan3 % ren2 wu4 % you3 shen2 me5 $|地产%人物%有什么$
+SSB00090162|xiang3 yao4 % cheng2 long2 de5 ge1 $|想要%成龙的歌$
+SSB00090006|wei1 ruan3 % tui1 chu1 % mian3 fei4 % zeng1 zhi2 % ce4 lve4 $|微软%推出%免费%增值%策略$
+SSB00090272|xiang3 yao4 % cao2 meng3 de5 ge1 $|想要%草蜢的歌$
+SSB00090319|guo4 qu4 % ji3 zhou1 % shi4 % yi1 di2 si1 % ji4 yi4 zhong1 % ping2 sheng1 % zui4 yu2 kuai4 de5 % ri4 zi5 $|过去%几周%是%伊迪丝%记忆中%平生%最愉快的%日子$
+SSB00090186|shi2 pin2 % xiao3 chi1 % you3 shen2 me5 $|食品%小吃%有什么$
+SSB00090228|xiang3 yao4 % bei3 jing1 % tian1 shi3 % he2 chang4 tuan2 de5 % ge1 $|想要%北京%天使%合唱团的%歌$
+SSB00090178|xiang3 yao4 % chen2 yi1 xun4 de5 % ge1 $|想要%陈奕迅的%歌$
+SSB00090083|ye3 bu2 yi4 wei4 zhe5 $ wo2 % ma3 shang4 % jiu4 hui4 you3 % shou1 ru4 $|也不意味着$我%马上%就会有%收入$
+SSB00090166|zhe4 shi4 % fu4 zong2 % jing3 jian1 de5 % ban4 gong1 shi4 $|这是%副总%警监的%办公室$
+SSB00090481|ta1 men5 % de2 dao4 % zhe4 ge4 % shi4 jie4 de5 % shi2 hou5 $|他们%得到%这个%世界的%时候$
+SSB00090264|wo3 kan4 % ye3 mei2 % bi4 yao4 % tiao4 guo4 % tian2 pin3 le5 $|我看%也没%必要%跳过%甜品了$
+SSB00090056|zhong4 jin1 % shu3 % yue4 dui4 % you3 shen2 me5 $|重金%属%乐队%有什么$
+SSB00090085|wen2 ming2 di4 % guo2 you3 % shen2 me5 $|文明帝%国有%什么$
+SSB00090133|yi4 huir4 kan4 % kan4 o2|一会儿%看看哦$
+SSB00090115|shan4 bei4 % cai4 pu2 % you3 shen2 me5 $|扇贝%菜谱%有什么$
+SSB00090423|ben3 bao4 % guan1 yu2 % de2 nei4 % da4 jie1 % ta1 xian4 de5 % bao4 dao4 $|本报%关于%德内%大街%塌陷的%报道$
+SSB00090121|guo4 qu4 % shi2 wu3 nian2 de5 % mu3 qin1 jie2 $|过去%十五年的%母亲节$
+SSB00090293|zi3 tong2 xian4 de5 % jing2 dian2 % you3 shen2 me5 $|梓潼县的%景点%有什么$
+SSB00090405|na4 me5 % zai4 % xian4 jin1 de5 % xiao1 fei4 % shi2 dai4 $|那么%在%现今的%消费%时代$
+SSB00090158|er2 % qu4 nian2 wei4 % er4 bai3 % yi4 yuan2 $|而%去年为%二百%亿元$
+SSB00090134|wo2 xiang2 % gai3 bian4 % yi2 xia4 % sheng1 huo2 % fang1 shi4 $|我想%改变%一下%生活%方式$
+SSB00090018|zhe4 shi4 % cong2 ni3 % shu1 li3 % lai2 de5 ma5 $|这是%从你%书里%来的吗$
+SSB00090421|dan1 yang2 de5 % guan1 yuan2 % you3 shen2 me5 $|丹阳的%官员%有什么$
+SSB00090054|ni2 you3 % yu4 ding4 % fang2 jian1 % ma5 xian1 sheng5 $|你有%预订%房间%吗先生$
+SSB00090251|wo3 hai2 dei3 % qu4 jie1 % ai4 bi3 $|我还得%去接%艾比$
+SSB00090357|huang2 mei2 xi4 % ge1 qu2 % you3 shen2 me5 $|黄梅戏%歌曲%有什么$
+SSB00090099|zhe4 ye3 shi4 % wo3 ma1 ma5 % zui4 ai4 % kan4 de5 shu1 $|这也是%我妈妈%最爱%看的书$
+SSB00090029|zen3 me5 % bu4 gen1 wo3 % shang1 liang5 $|怎么%不跟我%商量$
+SSB00090301|ta1 mei2 % he2 wo3 shuo1 $|他没%和我说$
+SSB00090449|ta1 % dang1 shi2 % zai4 jin4 xing2 % ling2 hun2 % lv3 xiu1 $|她%当时%在进行%灵魂%旅休$
+SSB00090457|jia1 na2 da4 de5 % hao3 di4 fang5 $|加拿大的%好地方$
+SSB00090168|wu3 han4 shi4 % wu4 jia4 ju2 $|武汉市%物价局$
+SSB00090261|yong4 % zi4 ji3 de5 % xing2 dong4 % gan2 ran3 % geng4 duo1 de5 ren2 % shen1 yu4 % yun4 dong4 $|用%自己的%行动%感染%更多的人%参与%运动$
+SSB00090185|bei3 fang1 % you3 % jia1 ren2 $|北方%有%佳人$
+SSB00090452|yong4 % shi2 you2 % rong2 ji4 % chu2 qu4 % sha1 zi5 % shang4 de5 % you2 qi1 $|用%石油%溶剂%除去%沙子%上的%油漆$
+SSB00090384|shen1 zhen4 % jin4 qi1 % shi4 chang3 % li4 hao3 % yin1 su4 % jiao4 duo1 $|深圳%近期%市场%利好%因素%较多$
+SSB00090112|dui4 % wu2 qi3 li4 % er2 yan2 % fei1 chang2 % te4 bie2 $|对%吴绮莉%而言%非常%特别$
+SSB00090036|ruo4 wo3 % zhi1 dao4 ne5 $ wo2 you3 % shen2 me5 % hao3 chu4 $|若我%知道呢$我有%什么%好处$
+SSB00090200|piao4 liang4 % nv3 hai2 $|漂亮%女孩$
+SSB00090260|zhong1 xin1 wang3 % qi1 yue4 % jiu3 ri4 % dian4 ju4 % guo2 jia1 % fa1 gai2 wei2 % wang3 zhan4 % xiao1 xi5 $|中新网%七月%九日%电据%国家%发改委%网站%消息$
+SSB00090147|nan2 jing1 de5 % si4 miao4 % you3 shen2 me5 $|南京的%寺庙%有什么$
+SSB00090454|wo3 men5 % ye3 dou1 % xiang1 xin4 le5 $|我们%也都%相信了$
+SSB00090170|mian4 fen3 de5 % xiao3 chi1 % you3 shen2 me5 $|面粉的%小吃%有什么$
+SSB00090490|wo3 % zhi1 dao4 % wo3 shi4 % di4 yi1 ci4 % dang1 % xiao3 dui4 zhang3 $|我%知道%我是%第一次%当%小队长$
+SSB00090080|mei2 ren2 % shi4 % lao2 ban3 $|没人%是%老板$
+SSB00090242|lao2 biao3 tang1 % guan3 jiang1 % da4 lu4 $|佬俵汤%馆江%大路$
+SSB00090028|piao4 liang4 % jie2 jie3 % dian4 si2 ni3 $|漂亮%姐姐%电死你$
+SSB00090442|mou3 ge4 % you3 % jun1 shi4 % biao1 zhi4 de5 % kong1 yong3 % chi2 li3 $|某个%有%军事%标志的%空泳%池里$
+SSB00090258|xi1 yang2 % shen1 cai4 pu2 % you3 shen2 me5 $|西洋%参菜谱%有什么$
+SSB00090160|yi4 guo2 ji4 % ban4 cheng2 % ma3 la1 song1 % she4 % nv2 zi3 % qian2 % ba1 ming2 % jiang3 xiang4 $|一国际%半程%马拉松%设%女子%前%八名%奖项$
+SSB00090240|de2 ren2 tang2 % yu4 cai2 lu4 $|德仁堂%育才路$
+SSB00090378|zhen1 shi4 % shou2 hao3 ge1 $|真是%首好歌$
+SSB00090071|xiang3 yao4 % han2 lei3 de5 ge1 $|想要%韩磊的歌$
+SSB00090104|xie2 zhu4 % yi1 liao2 % jiu4 hu4 $ wei2 hu4 % bi3 sai4 % zhi4 xu4 $|协助%医疗%救护$维护%比赛%秩序$
+SSB00090398|chu2 fei1 % zhe4 ci4 % wo3 neng2 % niu2 zhuan3 qian2 kun1 $|除非%这次%我能%扭转乾坤$
+SSB00090362|zhong1 lian2 % da4 yao4 fang2 % yu4 cai2 lu4 $|中联%大药房%育才路$
+SSB00090060|shou4 % wu4 ye4 % guan2 li3 % shou1 fei4 % tou2 su4 $ ju3 bao4 % qi1 bai3 % liu4 shi2 er4 jian4 $|受%物业%管理%收费%投诉$举报%七百%六十二件$
+SSB00090183|ta1 ma1 % you2 tai4 % feng1 zi5 $|他妈%犹太%疯子$
+SSB00090439|yi1 liu4 yi1 qi1 % yi1 ba1 % wu3 qi1 $|一六一七%一八%五七$
+SSB00090194|wa1 keng1 % dai4 biao3 $ ceng2 bei4 % wang3 shang4 % zhui1 tao2 % zhou1 bian1 % ju1 min2 % reng2 % you3 jia1 % nan2 hui2 $|挖坑%代表$曾被%网上%追逃%周边%居民%仍%有家%难回$
+SSB00090090|yi1 jiu2 jiu3 % qi1 jiu3 % ba1 liu4 liu4 $|一九九%七九%八六六$
+SSB00090334|xin1 sheng1 % dai4 yi4 ren2 % you3 shen2 me5 $|新生%代艺人%有什么$
+SSB00090151|jie2 ke4 % xian4 zai4 % shui4 zai4 % ni3 na4 $|杰克%现在%睡在%你那$
+SSB00090181|na4 hen3 % bu4 ming2 zhi4 $|那很%不明智$
+SSB00090477|piao4 liang4 % bao3 bei4 % guo2 yu2 ban3 $|漂亮%宝贝%国语版$
+SSB00090358|shan1 shui3 % shu1 ji2 % you3 shen2 me5 $|山水%书籍%有什么$
+SSB00090463|shi4 xie2 % fa3 yi1 de5 % yan3 yuan2 % you3 shen2 me5 $|嗜血%法医的%演员%有什么$
+SSB00090497|jie2 sen1 % ba3 ta1 men5 % yun4 dao4 % bie2 chu4 le5 $|杰森%把它们%运到%别处了$
+SSB00090509|wo3 % zhu4 yu4 dao4 % ni3 % zui4 jin4 % xin1 bu2 zai4 yan1 $|我%注意到%你%最近%心不在焉$
+SSB00090315|shao1 kao2 % qi3 ye4 % you3 shen2 me5 $|烧烤%企业%有什么$
+SSB00090277|liu4 san1 % yi1 er4 % jiu3 qi1 % yi1 yi1 $|六三%一二%九七%一一$
+SSB00090467|xiang3 yao4 % guang1 liang2 de5 ge1 $|想要%光良的歌$
+SSB00090418|dan4 % suo2 you3 % jia1 zhou1 de5 % zhi2 fa3 % bu4 men2 $|但%所有%加州的%执法%部门$
+SSB00090337|yi2 qie4 % dou1 hen2 hao3 $|一切%都很好$
+SSB00090331|zhe4 shi4 % jin3 jie4 de5 % yi2 duan4 % jia1 hua4 $|这是%警界的%一段%佳话$
+SSB00090012|piao1 liu2 wang3 ba5 $|漂流网吧$
+SSB00090206|xiang1 bi3 % qu4 nian2 de5 % yi1 bai3 yi4 yuan2 $|相比%去年的%一百亿元$
+SSB00090191|xiang3 yao4 % cai4 yi1 lin2 de5 ge1 $|想要%蔡依林的歌$
+SSB00090329|tai4 ji2 yu2 % zhan3 xian4 % ta1 de5 % qi2 shi4 % jing1 shen2 le5 $|太急于%展现%他的%骑士%精神了$
+SSB00090474|ren4 cheng2 qu1 jie1 dao4 % you3 shen2 me5 $|任城区街道%有什么$
+SSB00090084|ni3 zai4 % man4 gu3 % chu1 chai1 $|你在%曼谷%出差$
+SSB00090283|ni3 % zhen1 de5 % yao4 ba3 % ta1 men5 % zhi4 yu2 % kun4 jing4 % zhi1 zhong1 $|你%真的%要把%他们%置于%困境%之中$
+SSB00090116|wu3 han4 shi4 % wu4 jia4 ju2 % lian2 he2 % ban4 gong1 % zhong1 xin1 $|武汉市%物价局%联合%办公%中心$
+SSB00090005|dan4 % you3 ren2 shuo1 $ wo3 % fei1 chang2 % yao4 yan3 $|但%有人说$我%非常%耀眼$
+SSB00090411|gu3 shi4 % yu3 % lou2 shi4 de5 % qiao1 qiao1 ban3 % xiao4 ying4 % zai4 % wu3 yue4 % liu4 yue4 % de2 dao4 % chong1 fen4 % ti3 xian4 $|股市%与%楼市的%跷跷板%效应%在%五月%六月%得到%充分%体现$
+SSB00090307|a4 ling2 % qi1 wu2 % jiu3 a4 % wu2 wu3 $|二零%七五%九二%五五$
+SSB00090397|wang2 da4 sao3 % re4 gan1 mian4 $|王大嫂%热干面$
+SSB00090341|hai2 % ti2 gong4 % guan1 wang3 % xia4 zai3 % gong1 neng2 $|还%提供%官网%下载%功能$
+SSB00090231|tong2 bi3 % xia4 jiang4 % jiao4 da4 $|同比%下降%较大$
+SSB00090248|a1 li4 si1 % tai4 er3 % kan4 jian4 le5 % zuo4 zai4 % yi3 zi5 li3 de5 % luo2 si1 de5 % mo2 hu5 % shen1 ying3 $|阿利斯%泰尔%看见了%坐在%椅子里的%罗丝的%模糊%身影$
+SSB00090342|jiao4 % shang4 yue4 $ shang4 sheng1 % bai3 fen1 zhi1 % shi2 si4 dian3 % ba1 er4 $|较%上月$上升%百分之%十四点%八二$
+SSB00090294|zhao1 lan3 % xin1 ke4 yuan2 $|招揽%新客源$
+SSB00090507|si4 si4 $ ling2 qi1 % qi1 % jiu3 ba1 san1 $|四四$零七%七%九八三$
+SSB00090471|er4 san1 ba1 % qi1 % wu3 ling2 % ba1 qi1 $|二三八%七%五零%八七$
+SSB00090059|ni3 % an1 xiang3 % ta1 de5 % fu3 mo2 %|你%安享%它的%抚摩%
+SSB00090263|ni3 dui4 % ci3 ren2 de5 % liao2 jie3 $|你对%此人的%了解$
+SSB00090278|ta1 cong2 % da4 kuai4 de5 % niu2 rou4 shang4 % qie4 xia4 % yi2 pian4 lai2 $|她从%大块的%牛肉上%切下%一片来$
+SSB00090285|can1 sai4 zhe3 % ke2 yi3 % sui2 shi2 % qiu2 zhu4 $|参赛者%可以%随时%求助$
+SSB00090354|shen1 zhen4 % liu4 yue4 % zhu4 zhai2 % jia4 ge2 $ tong2 bi2 % zhang3 fu2 % bao3 chi2 % jue2 dui4 % ling3 xian1 $|深圳%六月%住宅%价格$同比%涨幅%保持%绝对%领先$
+SSB00090336|fu2 jian4 de5 % jing2 dian2 % you3 shen2 me5 $|福建的%景点%有什么$
+SSB00090281|jin1 nian2 % yi1 yue4 % er4 shi2 wu3 ri4 % er4 shi2 ba1 ri4 $|今年%一月%二十五日%二十八日$
+SSB00090255|piao1 liu2 % wang3 ka1 $|漂流%网咖$
+SSB00090279|wei4 le5 % man3 zu2 % nv3 xing4 % pao2 zhe2 $ ke3 wang4 % yan2 tu2 % ji4 lu4 % mei3 li4 de5 % yuan4 wang4 $|为了%满足%女性%跑者$渴望%沿途%记录%美丽的%愿望$
+SSB00090375|zhan4 % fang2 di4 chan2 % ling3 yu4 $ jia4 ge2 % tou2 su4 $ ju3 bao4 % zong3 liang4 de5 $ bai3 fen1 zhi1 % qi1 shi2 % san1 dian3 % ba1 si4 $|占%房地产%领域$价格%投诉$举报%总量的$百分之%七十%三点%八四$
+SSB00090233|xiang3 yao4 % li3 ke4 qin2 de5 % ge1 $|想要%李克勤的%歌$
+SSB00090167|chu2 le5 % an1 pai2 % da4 liang4 de5 % she4 ying3 shi1 % yan2 tu2 % pai1 she4 wai4 $|除了%安排%大量的%摄影师%沿途%拍摄外$
+SSB00090408|ran2 hou4 % xi1 yin3 % yong4 hu4 % chang2 qi1 % shi3 yong4 % gai1 % fu2 wu4 $|然后%吸引%用户%长期%使用%该%服务$
+SSB00090343|wo3 % reng2 ran2 % jian1 xin4 % di4 qiu2 $|我%仍然%坚信%地球$
+SSB00090310|ying4 jian4 % chang3 shang1 % zui4 zhong1 jiang1 % shou4 quan2 fei4 $ zhuan3 jia4 gei3 % xiao1 fei4 zhe3 $|硬件%厂商%最终将%授权费$转嫁给%消费者$
+SSB00090148|ni3 % zhe4 yang4 % gen1 ren2 jia1 % jiang3 hua4 $|你%这样%跟人家%讲话$
+SSB00090470|song4 chao2 de5 % ming2 jiang4 % you3 shen2 me5 $|宋朝的%名将%有什么$
+SSB00090386|wo3 dai4 % wo3 er2 zi5 % qu4 mai3 % qun2 zi5 le5 $|我带%我儿子%去买%裙子了$
+SSB00090113|chen2 chen2 % fen3 mian4 dian4 $|晨晨%粉面店$
+SSB00090199|ai4 er3 lan2 % hou4 wei4 % you3 shen2 me5 $|爱尔兰%后卫%有什么$
+SSB00090126|luo2 ge2 % neng2 % rang4 ni3 % kai1 xin1 de5 hua4 $|罗格%能%让你%开心的话$
+SSB00090500|zhe4 cai2 shi4 % wo3 % yuan4 yi5 % xiang1 xin4 de5 % xin4 yang3 $|这才是%我%愿意%相信的%信仰$
+SSB00090420|zhong1 yuan2 % san3 huo4 % yun4 shu1 % ji2 tuan2 % you3 xian4 % gong1 si1 % fu4 % zong3 jing1 li3 % he2 ying4 jie2 % biao3 shi4 $|中远%散货%运输%集团%有限%公司%副%总经理%何应杰%表示$
+SSB00090351|bo1 duo1 % li2 ge4 % yan3 yuan2 % you3 shen2 me5 $|波多%黎各%演员%有什么$
+SSB00090128|xi1 can1 % cai4 pu2 % you3 shen2 me5 $|西餐%菜谱%有什么$
+SSB00090333|er4 liu4 qi1 % si4 wu3 % er4 liu4 san1 $|二六七%四五%二六三$
+SSB00090366|ran2 hou4 % chang4 ge1 % you4 hao3 $|然后%唱歌%又好$
+SSB00090314|wo3 ge1 $ na4 tian1 % ba2 wo2 sao3 zi5 % gei3 % shuai1 dao4 % di4 shang4 le5 $|我哥$那天%把我嫂子%给%摔到%地上了$
+SSB00090359|piao1 lang4 % zhi1 nv3 $|漂浪%之女$
+SSB00090346|san1 jiu3 % ling2 ling2 % ling2 yi1 % ba1 ling2 $|三九%零零%零一%八零$
+SSB00090127|sou1 hu2 % yu2 le4 xun4 % jiu3 yue4 % san1 shi2 ri4 $|搜狐%娱乐讯%九月%三十日$
+SSB00090296|xiang3 yao4 % cui1 zi3 ge2 de5 % ge1 $|想要%崔子格的%歌$
+SSB00090292|wo3 men5 % jiu4 jin4 xin2 % xia4 yi4 lun2 % shou3 shu4 $|我们%就进行%下一轮%手术$
+SSB00090187|song1 tian2 xiang2 % tai4 ri4 ju4 % you3 shen2 me5 $|松田翔%太日剧%有什么$
+SSB00090433|shi2 jia1 % zhuang1 shi4 de5 % xiao3 xue2 % you3 shen2 me5 $|石家%庄市的%小学%有什么$
+SSB00090143|fan3 zheng4 % wo2 ting3 % han2 xin1 de5 $|反正%我挺%寒心的$
+SSB00090109|wo3 yong4 % wo3 de5 % fan1 chuan2 % gai3 jian4 de5 $|我用%我的%帆船%改建的$
+SSB00090441|xian3 shi4 % di4 san1 % shi2 jiu3 $|显示%第三%十九$
+SSB00090033|zhong1 guan1 cun1 % gu3 quan2 zhong4 % chou2 lian2 meng2 % cheng2 li4 $|中关村%股权众%筹联盟%成立$
+SSB00090227|xiang3 yao4 % huang2 lin2 de5 ge1 $|想要%黄龄的歌$
+SSB00090394|bu4 de2 % an1 ning2 % xiao3 shuo1 % you3 shen2 me5 $|不得%安宁%小说%有什么$
+SSB00090047|ni3 yao4 % zen3 me5 yang4 % wo3 neng2 % de2 dao4 % shen3 me5 $|你要%怎么样%我能%得到%什么$
+SSB00090157|bian4 % wen1 shi4 % wen1 du4 % tiao2 zhi4 % fu4 % shi2 er4 du4 $|变%温室%温度%调至%负%十二度$
+SSB00090110|neng2 gou4 % xiang3 shou4 % nv3 shen2 % ji2 bie2 de5 % fu2 wu4 $|能够%享受%女神%级别的%服务$
+SSB00090273|na4 shi4 % shu3 yu2 % ta1 % dan1 du2 % biao2 yan3 de5 % ji1 hui4 $|那是%属于%她%单独%表演的%机会$
+SSB00090445|yang2 lan2 fang1 de5 % yan3 lei4 % duo2 kuang4 % er2 chu1 $|杨兰芳的%眼泪%夺眶%而出$
+SSB00090117|dan1 ni1 % ao4 ba1 % ba1 la1 $|丹妮%奥芭%芭拉$
+SSB00090061|qi1 si4 san1 % yi1 si4 % yi1 % wu3 ba1 $|七四三%一四%一%五八$
+SSB00090146|ying1 guo2 de5 % dian4 ying2 % you3 shen2 me5 $|英国的%电影%有什么$
+SSB00090419|ji4 suan4 ji1 de5 % ci2 hui4 % you3 shen2 me5 $|计算机的%词汇%有什么$
+SSB00090444|xiang1 bi3 % qu4 nian2 % tong2 qi1 de5 % wu3 shi2 yi4 yuan2 $|相比%去年%同期的%五十亿元$
+SSB00090491|wo3 ge4 ren2 % shi4 bu2 da4 % gan3 kan4 % zhei4 yi4 ji2 de5 $|我个人%是不大%敢看%这一集的$
+SSB00090446|ling2 wu3 ba1 % er4 san1 % si4 % liu4 liu4 $|零五八%二三%四%六六$
+SSB00090152|huang2 shan1 de5 % xia2 qu1 % you3 shen2 me5 $|黄山的%辖区%有什么$
+SSB00090395|zhi3 yao4 % zhe4 di4 fang1 % qiang2 sheng4 % an1 ding4 $|只要%这地方%强盛%安定$
+SSB00090309|wang2 ji4 % niu2 za2 guan3 jiang1 % da4 lu4 dian4 $|王记%牛杂馆江%大路店$
+SSB00090041|er4 er4 ling2 % si4 er4 % si4 qi1 yi1 $|二二零%四二%四七一$
+SSB00090286|jiu3 si4 si4 $ ba1 ba1 % er4 ling2 yi1 $|九四四$八八%二零一$
+SSB00090465|ta1 men5 % hui4 % tai2 tou2 % kan4 dao4 % na4 mian4 % qi2 zi5 $|他们%会%抬头%看到%那面%旗子$
+SSB00090353|xiang3 yao4 % da4 zhang1 wei3 de5 % ge1 $|想要%大张伟的%歌$
+SSB00090461|zhe4 yang4 de5 % he2 cheng2 % bo1 xing2 % ming2 xian3 de5 % que1 fa2 % jiao4 gao1 de5 % na4 yi4 % ping2 lv4 $|这样的%合成%波形%明显地%缺乏%较高的%那一%频率$
+SSB00090172|wo2 xiang2 wo3 % nong4 chu1 % mi4 ma3 le5 $|我想我%弄出%密码了$
+SSB00090268|wo3 chuan1 de5 % shi4 % niu2 zai3 ku4 $|我穿的%是%牛仔裤$
+SSB00090216|liu4 ling2 ling2 % wu2 jiu2 % wu3 er4 si4 $|六零零%五九%五二四$
+SSB00090159|shang4 yi2 ci4 % wo3 % jian4 dao4 % ni2 % mu3 qin1 $|上一次%我%见到%你%母亲$
+SSB00090046|ba1 ling2 % wu3 ling2 % ling2 % ling2 ling2 % ba1 san1 $|八零%五零%零%零零%八三$
+SSB00090123|tui1 dong4 % he2 ge2 % tou2 zi1 ren2 % xin4 xi1 $ gong1 kai1 deng3 % zhi4 du4 % he2 % gui1 fan4 de5 % jian4 li4 $|推动%合格%投资人%信息$公开等%制度%和%规范的%建立$
+SSB00090389|wo3 % kan4 dao4 % ta1 wang3 % che1 xiang1 li3 % kan4 shi2 de5 % biao3 qing2 $|我%看到%他往%车厢里%看时的%表情$
+SSB00090269|bie2 % zhe4 me5 % lang4 fei4 % hua1 qian2 % jie2 sheng2 % dianr3|别%这么%浪费%花钱%节省%点儿$
+SSB00090239|xiang3 yao4 % han2 bao3 yi2 de5 % ge1 $|想要%韩宝仪的%歌$
+SSB00090101|xiang3 yao4 % jiu3 yue4 % qi2 ji4 de5 ge1 $|想要%玖月%奇迹的歌$
+SSB00090392|suo2 yi3 yao4 % du4 jue2 % yi2 ci4 xing4 % kuai4 zi5 de5 % sheng1 chan3 $|所以要%杜绝%一次性%筷子的%生产$
+SSB00090163|ta1 de5 % zi1 jin1 % shi2 li4 % he2 % xian4 jin1 liu2 % jiao4 ruo4 $|它的%资金%实力%和%现金流%较弱$
+SSB00090436|piao1 liu2 de5 % ai4 qin2 $|漂流的%爱情$
+SSB00090274|li3 hong2 lie4 % chu1 yan3 de5 % dian4 shi4 ju4 % you3 shen2 me5 $|李鸿烈%出演的%电视剧%有什么$
+SSB00090425|wo3 % bu4 xiang3 % ta1 de5 % jie2 guo3 % xiang4 % wo3 men5 % yi2 yang4 $|我%不想%她的%结果%像%我们%一样$
+SSB00090410|jin1 wan3 $ ni2 xiang3 dao4 % nar4 chi1 % wan3 can1|今晚$你想到%那儿%吃晚餐$
+SSB00090119|suo3 ni2 % ying3 ye4 % si5 si3 % ya1 zi5 % zui3 ying4 de5 $ yu2 % shang4 zhou1 % fa1 biao3 % sheng1 ming2 $|索尼%影业%死死%鸭子%嘴硬的$于%上周%发表%声明$
+SSB00090093|zhua1 jin3 % shi2 jian1 % bao4 ming2 $|抓紧%时间%报名$
+SSB00090464|xie4 xie4 % zhang3 guan1 % wu3 qi4 % wen4 ti2 % jie3 jue2 le5 ma5 $|谢谢%长官%武器%问题%解决了吗$
+SSB00090262|yu2 % mei3 yuan2 de5 % guan1 lian2 xin4 $|与%美元的%关联性$
+SSB00090042|yi1 wu3 % er4 wu2 % wu2 wu3 % ba1 san1 $|一五%二五%五五%八三$
+SSB00090073|zhi3 gong4 % guo2 nei4 wai4 de5 $|只供%国内外的$
+SSB00090297|xiang3 yao4 % chen2 hui4 xian2 de5 % ge1 $|想要%陈慧娴的%歌$
+SSB00090328|wu4 ye4 % guan2 li3 % she4 ji2 % qian1 jia1 % wan4 hu4 $|物业%管理%涉及%千家%万户$
+SSB00090222|dan4 shi4 % ye2 you3 % yi2 jian4 % hen3 bang4 de5 % shi4 qing5 o1 $|但是%也有%一件%很棒的%事情哦$
+SSB00090417|wo3 % wu2 fa3 % ding4 wei4 $|我%无法%定位$
+SSB00090150|wo3 % zhen1 de5 % bu4 neng2 % zai4 dai1 % zai4 % zhe4 li3 le5 $|我%真的%不能%再待%在%这里了$
+SSB00090504|zhen1 dui4 % shi2 xia4 % re4 men2 de5 % wu4 lian2 wang3 $|针对%时下%热门的%物联网$
+SSB00090220|huang2 tai4 zi3 % chuan1 cai4 guan3 $|皇太子%川菜馆$
+SSB00090022|zhe4 li2 % ken3 ding4 % you2 % zhao3 dao4 % yuan2 yin1 de5 % xian4 suo3 $|这里%肯定%有%找到%原因的%线索$
+SSB00090236|xiang3 yao4 % feng4 huang2 % chuan2 qi2 de5 ge1 $|想要%凤凰%传奇的歌$
+SSB00090473|xiang3 yao4 % deng4 zi3 qi2 de5 % ge1 $|想要%邓紫棋的%歌$
+SSB00090149|wo3 zhen1 % xi1 wang4 % zi4 ji3 % neng2 you2 ni3 % zhe4 yang4 de5 % yong3 qi4 $|我真%希望%自己%能有你%这样的%勇气$
+SSB00090074|yi2 ge4 % shui3 zi1 yuan2 % jiao1 yi4 % shi4 chang3 % zheng4 zai4 % nong2 min2 % zhi1 jian1 % zhu2 jian4 % xing2 cheng2 $|一个%水资源%交易%市场%正在%农民%之间%逐渐%形成$
+SSB00090493|ta1 % qing4 xin4 % zi4 ji3 % neng2 huo2 zhe5 $|她%庆幸%自己%能活着$
+SSB00090431|dan4 ta1 % shi4 zai4 % da4 jie1 shang4 % bei4 sha1 de5 $|但他%是在%大街上%被杀的$
+SSB00090043|xi1 an1 shi4 % xian1 zong1 lin2 % can1 ting1 % lian2 suo3 dian4 $|西安市%仙踪林%餐厅%连锁店$
+SSB00090053|wo2 xiang2 ni3 % zai4 gei2 wo3 % yi2 ci4 % ji1 hui4 $|我想你%再给我%一次%机会$
+SSB00090072|zhe4 dian3 % tai4 % cha4 jin4 le5 $|这点%太%差劲了$
+SSB00090468|jiu4 suan4 % bu2 hai4 % si2 xue3 li4 $|就算%不害%死雪莉$
+SSB00090225|shi3 de2 % lou2 shi4 % xiao1 shou4 $ zai4 % liu4 yue4 % qi1 yue4 % ke3 neng2 % de2 dao4 % ji2 zhong1 % shi4 fang4 $|使得%楼市%销售$在%六月%七月%可能%得到%集中%释放$
+SSB00090303|xiao3 xing2 % hang2 qi3 $ jin1 nian2 % jing1 ying2 % ye3 jiang1 % fei1 chang2 % kun4 nan2 $|小型%航企$今年%经营%也将%非常%困难$
+SSB00090265|sui2 tang2 % yan3 yi4 % ren2 wu4 % you3 shen2 me5 $|隋唐%演义%人物%有什么$
+SSB00090205|yi4 da4 li4 de5 % dong4 wu4 % you3 shen2 me5 $|意大利的%动物%有什么$
+SSB00090443|xian4 zai4 % gan4 shen2 me5 $|现在%干什么$
+SSB00090082|xiang3 yao4 % han2 hong2 de5 ge1 $|想要%韩红的歌$
+SSB00090003|wen2 cheng2 xian4 de5 % xue2 xiao4 % you3 shen2 me5 $|文成县的%学校%有什么$
+SSB00090284|wo3 men5 % jiang1 % tou1 tou1 de5 % chao2 xiao4 % tong4 yin3 $|我们%将%偷偷地%嘲笑%痛饮$
+SSB00090027|leng3 cang2 % wen1 du4 % she4 wei4 % si4 du4 $|冷藏%温度%设为%四度$
+SSB00090326|ran2 hou4 % kai1 shi3 % xia4 yu3 $|然后%开始%下雨$
+SSB00090345|cheng2 de2 shi4 de5 % jing2 dian2 % you3 shen2 me5 $|承德市的%景点%有什么$
+SSB00090048|huo4 ge2 % wo4 zi1 de5 % yi2 qie4 % bi2 wo2 % xiang3 xiang4 de5 % zao1 gao1 de5 duo1 $|霍格%沃兹的%一切%比我%想象的%糟糕的多$
+SSB00090256|yu4 cai2 % you4 er2 yuan2 % huang2 xiao4 he2 lu4 $|育才%幼儿园%黄孝河路$
+SSB00090208|si4 yi1 si4 $ er4 si4 % er4 er4 jiu3 $|四一四$二四%二二九$
+SSB00090295|wo3 % ting1 zhe5 % dou1 % ti4 ta1 % nie1 ba3 han4 $|我%听着%都%替她%捏把汗$
+SSB00090510|ta1 men5 % song4 le5 $ wo3 men5 % mei3 ren2 % yi4 her2|他们%送了$我们%每人%一盒儿$
+SSB00090154|wan4 yi1 % bei4 ta1 men5 % zhua1 zhu4 % jiu4 can3 le5 $|万一%被他们%抓住%就惨了$
+SSB00090250|yi2 qie4 % jin4 zai4 % jie2 % zhang3 wo4 zhong1 $|一切%尽在%姐%掌握中$
+SSB00090100|wei1 lian2 % yong4 yi4 % he2 zai4 $|威廉%用意%何在$
+SSB00090498|chang3 xing1 de5 % jing2 dian3 % you3 shen2 me5 $|长兴的%景点%有什么$
+SSB00090002|a1 er3 tai4 de5 % sheng1 wu4 % you3 shen2 me5 $|阿尔泰的%生物%有什么$
+SSB00090009|wo3 men5 cheng1 % ta1 wei2 mu3 % ye4 cha1 $|我们称%她为母%夜叉$
+SSB00090076|gai1 gong1 si1 % jing4 li4 run4 % kui1 sun2 % jiu3 yi4 yuan2 $|该公司%净利润%亏损%九亿元$
+SSB00090106|xian4 zai4 % wo3 jiu4 % que1 ge4 % hao3 nan2 you3 le5 $|现在%我就%缺个%好男友了$
+SSB00090513|qi2 zhong1 $ zhong1 guo2 % yuan3 yang2 % jing1 yin2 % huo2 dong4 de5 % xian4 jin1 liu2 $|其中$中国%远洋%经营%活动的%现金流$
+SSB00090091|cong2 % tong3 ji4 ju2 % gong1 bu4 de5 % shu4 ju4 kan4 $|从%统计局%公布的%数据看$
+SSB00090376|wu3 han4 shi4 % ren2 shi4 % kao3 shi4 % zhong1 xin1 $ zi1 liao4 % fa1 xing2 zhan4 $|武汉市%人事%考试%中心$资料%发行站$
+SSB00090051|tu2 wei2 % zhang1 guo2 li4 % jie1 shou4 % xin1 hua2 she4 % zhuan1 fang3 $|图为%张国立%接受%新华社%专访$
+SSB00090499|gai1 ni2 % fan3 ji1 le5 $|该你%反击了$
+SSB00090424|wo2 ye3 yao4 % ming2 pian4 $|我也要%名片$
+SSB00090209|you3 % liang2 hao3 de5 % jiao4 yu4 % neng2 % shou4 yong4 % zhong1 sheng1 $|有%良好的%教育%能%受用%终生$
+SSB00090140|jiang1 su1 sheng3 % kun1 shan1 shi4 de5 % jing2 dian3 % you3 shen2 me5 $|江苏省%昆山市的%景点%有什么$
+SSB00090485|qi1 si4 ba1 % liu4 ling2 % ba1 qi1 yi1 $|七四八%六零%八七一$
+SSB00090308|guo2 nei4 % di4 yi4 jia1 % gu3 quan2 % zhong4 chou2 % hang2 ye4 % zu3 zhi1 $|国内%第一家%股权%众筹%行业%组织$
+SSB00090031|hui4 hua4 % shu1 ji2 % you3 shen2 me5 $|绘画%书籍%有什么$
+SSB00090460|rang4 % zi4 ji3 de5 % mei4 li4 % ban4 liang4 % shang4 hai3 % zhe4 ge4 % chu1 dong1 de5 % shi2 jie2 $|让%自己的%魅力%扮靓%上海%这个%初冬的%时节$
+SSB00090383|wo3 % bing4 bu4 % qing1 yi4 % ji2 yu3 % bie2 ren2 % zan4 shang3 $|我%并不%轻易%给予%别人%赞赏$
+SSB00090081|tong1 guo4 % jiao1 liu2 % yi4 xie1 % zhong4 yao4 de5 % xin4 xi1 % yi3 jing1 % tou4 lu4 $|通过%交流%一些%重要的%信息%已经%透露$
+SSB00090020|piao4 liang4 % zhu3 fu4 $|漂亮%主妇$
+SSB00090145|xin4 yang2 % xian4 cheng2 % you3 shen2 me5 $|信阳%县城%有什么$
+SSB00090469|xiang3 yao4 % a1 du4 de5 ge1 $|想要%阿杜的歌$
+SSB00090508|ni2 you2 % kao3 lv4 % guo4 % mei2 ti3 ma5 $|你有%考虑%过%媒体吗$
+SSB00090253|gai3 wei2 % ti2 qian2 % yu4 zheng1 $|改为%提前%预征$
+SSB00090406|di4 wei4 % ye3 hun4 chu1 lai2 la5 $|地位%也混出来啦$
+SSB00090429|bian4 wen1 % wen1 du4 % diao4 zhi4 % ling2 xia4 % qi1 she4 shi4 du4 dang3 $|变温%温度%调至%零下%七摄氏度档$
+SSB00090044|xiao4 yi4 de5 % ren2 wu4 % you3 shen2 me5 $|孝义的%人物%有什么$
+SSB00090193|qi2 ta1 % kao2 gu3 % xue2 jia1 % dui4 ta1 de5 % fa1 xian4 % biao3 shi4 % huai2 yi2 $|其他%考古%学家%对他的%发现%表示%怀疑$
+SSB00090165|xiang3 yao4 % jiang1 yu4 heng2 de5 % ge1 $|想要%姜育恒的%歌$
+SSB00090365|wo2 ke3 % mei2 % zhe4 me5 shuo1 $|我可%没%这么说$
+SSB00090184|wo2 xiang2 wo3 % ye2 xu3 % zhi1 dao4 $|我想我%也许%知道$
+SSB00090195|wu3 han4 % da4 xue2 % kou3 qiang1 % yi1 yuan4 % di4 wu3 % men2 zhen3 bu4 $|武汉%大学%口腔%医院%第五%门诊部$
+SSB00090321|ta1 men5 % da3 suan4 % gei2 ni3 ge4 % sheng1 ri4 % jing1 xi3 $|他们%打算%给你个%生日%惊喜$
+SSB00090298|jiu4 hui4 % cha2 dao4 % wo3 men5 % shen1 shang4 $|就会%查到%我们%身上$
+SSB00090407|sui2 hou4 % chan3 xia4 % xiao3 long2 nv3 % wu2 zhuo2 lin2 $|随后%产下%小龙女%吴卓林$
+SSB00090024|shi4 % zui4 % jian3 dan1 de5 % gai3 bian4 % zi4 ji3 % xing2 jin4 % su4 du4 de5 % fang1 shi4 $|是%最%简单的%改变%自己%行进%速度的%方式$
+SSB00090254|dan4 wo3 % bu4 zhi1 dao4 $ ka3 rui4 na4 % zen3 me5 neng2 ba3 ta1 men5 % tuo1 zou3 $|但我%不知道$卡瑞娜%怎么能把他们%拖走$
+SSB00090371|wo3 % ren4 wei2 % zhe4 kuai4 % yun3 shi2 $|我%认为%这块%陨石$
+SSB00090455|qi1 er4 san1 % si4 si4 % wu3 ling2 yi1 $|七二三%四四%五零一$
+SSB00090453|xiang3 yao4 % kuai4 zi5 % xiong1 di4 de5 ge1 $|想要%筷子%兄弟的歌$
+SSB00090214|dan4 % da2 xi1 % gei3 le5 % wo3 yi4 qiang1 $|但%达茜%给了%我一枪$
+SSB00090244|chao1 guo4 % bai3 fen1 % zhi1 qi1 de5 % zhang3 fu2 zhong1 $ you3 bu4 shao3 % shi4 % tou2 zi1 % xu1 qiu2 % la1 dong4 de5 % jia4 ge2 % shang4 zhang3 $|超过%百分%之七的%涨幅中$有不少%是%投资%需求%拉动的%价格%上涨$
+SSB00090247|ni3 xiang4 ta1 % biao3 bai2 $|你向她%表白$
+SSB00090387|wu3 han4 shi4 de5 % gong1 yuan2 % you3 shen2 me5 $|武汉市的%公园%有什么$
+SSB00090379|gou4 mai3 % da4 dou4 % qi1 huo4 $ he2 % tong2 shi2 % mai4 chu1 % dou4 you2 % he2 % dou4 bo2 % qi1 huo4 $|购买%大豆%期货$和%同时%卖出%豆油%和%豆粕%期货$
+SSB00090075|xiang1 bi3 % qu4 nian2 de5 % si4 shi2 yi4 yuan2 $|相比%去年的%四十亿元$
+SSB00090153|ta1 % bao1 han2 % wo3 men5 de5 % sheng1 ming4 li4 $|它%包含%我们的%生命力$
+SSB00090506|wu3 han4 shi4 % jia4 ge2 % ju3 bao4 % zhong1 xin1 $|武汉市%价格%举报%中心$
+SSB00090234|yu2 shi4 % ai4 lun2 % jiu4 % zhao4 gu4 wo3 $|于是%爱伦%就%照顾我$
+SSB00090322|qu4 nian2 % da4 duo1 shu4 % hang2 qi3 % dou1 zai4 % kui1 sun3 $|去年%大多数%航企%都在%亏损$
+SSB00090404|mo4 xi1 ge1 de5 % jing2 dian3 % you3 shen2 me5 $|墨西哥的%景点%有什么$
+SSB00090114|zhi3 yao4 % hen2 shao3 % yi4 dian3 % xun4 lian4 $ ta1 men2 % jiu4 neng2 % biao3 xian4 de5 % fei1 chang2 hao3 $|只要%很少%一点%训练$他们%就能%表现得%非常好$
+SSB00090224|sai4 shi4 % zu2 wei3 hui4 % dong4 xi1 % nv3 shen2 men5 % xin1 si5 $|赛事%组委会%洞悉%女神们%心思$
+SSB00090511|er2 % kun4 nan2 % cheng2 du4 % qu3 jue2 yu2 % lao3 jiu4 chuan2 de5 % chai1 jie3 liang4 % he2 % yun4 jia4 % hui2 sheng1 % qing2 kuang4 $|而%困难%程度%取决于%老旧船的%拆解量%和%运价%回升%情况$
+SSB00090259|hai3 feng1 % xiao3 shuo1 % you3 shen2 me5 $|海风%小说%有什么$
+SSB00090475|suo2 yi2 $ wo3 hui4 rang4 % ni3 men5 % yong4 % ni3 men5 de5 % sheng1 yin1 $|所以$我会让%你们%用%你们的%声音$
+SSB00090381|wu2 qi3 li4 % he2 % cheng2 long2 % chan3 sheng1 % hun1 wai4 qin2 $|吴绮莉%和%成龙%产生%婚外情$
+SSB00090349|yong4 % wo3 men5 de5 % yi2 qie4 % qu4 % nu3 li4 % zu2 zhi3 $|用%我们的%一切%去%努力%阻止$
+SSB00090502|xuan2 shou3 % ke2 yi3 % zi4 xing2 % mian3 fei4 % huo4 qu3 % zhao4 pian4 $|选手%可以%自行%免费%获取%照片$
+SSB00090361|zhe4 chang3 % chong1 tu1 % shi3 % jie2 sen1 % tong2 shi2 % shi1 qu4 le5 % zhu4 suo3 % he2 % sheng1 ji4 % lai2 yuan2 $|这场%冲突%使%杰森%同时%失去了%住所%和%生计%来源$
+SSB00090039|hai3 nan2 sheng3 % hai2 kou3 shi4 de5 % yi1 yuan4 % you3 shen2 me5 $|海南省%海口市的%医院%有什么$
+SSB00090019|yi1 san1 jiu2 % wu3 jiu3 % ling2 er4 liu4 $|一三九%五九%零二六$
+SSB00090011|de2 guo2 de5 % zuo4 jia1 % you3 shen2 me5 $|德国的%作家%有什么$
+SSB00090287|na4 li3 % cai2 shi4 % wo3 de5 % pian4 chang3 $|那里%才是%我的%片场$
+SSB00090458|nan2 jing1 % yao4 jian1 % bu4 men2 $ zheng4 zai4 % jin4 xing2 % quan2 mian4 de5 % pai2 jian3 % gong1 zuo4 $|南京%药监%部门$正在%进行%全面的%排检%工作$
+SSB00090102|xiang3 yao4 % jiao1 yu2 yu3 de5 % ge1 $|想要%焦禹禹的%歌$
+SSB00090038|wo3 % bu4 xi1 wang4 % you3 ren2 % zai4 wo3 de5 % che1 shang4 % da3 jia4 $|我%不希望%有人%在我的%车上%打架$
+SSB00090034|shou1 fei4 % xiang4 mu4 % he2 % shou1 fei4 % biao1 zhun3 % mo2 hu5 % bu4 qing1 $|收费%项目%和%收费%标准%模糊%不清$
+SSB00090438|kun1 qu3 de5 % shu1 ji2 % you3 shen2 me5 $|昆曲的%书籍%有什么$
+SSB00090096|jiang1 xi1 de5 % zhong1 xue2 % you3 shen2 me5 $|江西的%中学%有什么$
+SSB00090025|yang2 cheng2 % wan3 bao4 % wu3 yue4 % ba1 ri4 $ bao4 dao3 % jin1 nian2 de5 % mu3 qin1 jie2 % wu3 yue4 % shi2 ri4 $|羊城%晚报%五月%八日$报道%今年的%母亲节%五月%十日$
+SSB00090401|zuo4 wei2 % gai1 pian4 de5 % chu1 pin3 fang1 $|作为%该片的%出品方$
+SSB00090466|qu4 % ta1 ma1 de5 % li4 shi3 $|去%他妈的%历史$
+SSB00090202|zhe4 shi4 % mu4 qian2 % guo2 nei4 % da4 duo1 shu4 % qi3 ye4 % can1 yu4 % wai4 jin4 $|这是%目前%国内%大多数%企业%参与%外境$
+SSB00090432|mu4 qian2 % jiu4 % dao4 ci3 % wei2 zhi3 $|目前%就%到此%为止$
+SSB00090503|xiang3 yao4 % da4 qing4 % xiao3 fang1 de5 ge1 $|想要%大庆%小芳的歌$
+SSB00090032|xin1 jiang1 % mu4 si1 lin2 % can1 guan3 $|新疆%穆斯林%餐馆$
+SSB00090049|sheng4 xin1 % cai4 guan3 $|盛新%菜馆$
+SSB00090108|jiu3 liu4 % liu4 qi1 % liu4 % qi1 si4 si4 $|九六%六七%六%七四四$
+SSB00090352|qian2 qi1 % gu3 shi4 % kuai4 niu2 de5 % zi1 jin1 % lei3 ji1 $|前期%股市%快牛的%资金%累积$
+SSB00090451|jiu4 shi4 % wo3 men5 % shu1 li2 % xie3 de5 $|就是%我们%书里%写的$
+SSB00090495|jiu2 ba3 % dao1 xiao3 shuo1 % you3 shen2 me5 $|九把%刀小说%有什么$
+SSB00090390|ruo4 % shang4 di4 $ bu2 yao4 % wo3 men5 % tan4 suo3 % tang1 mi3 de5 % guo2 du4 $|若%上帝$不要%我们%探索%汤米的%国度$
+SSB00090069|dao4 wo3 % zhe4 li3 % zhi4 shao3 % yao4 qian1 % si4 ge4 zi4 $|到我%这里%至少%要签%四个字$
+SSB00090356|dong1 jing1 % dian4 shi4 tai2 % dian4 shi4 ju4 % you3 shen2 me5 $|东京%电视台%电视剧%有什么$
+SSB00090062|wu2 fa3 % neng2 gou4 % rang4 nin2 % jie1 shou4 $|无法%能够%让您%接受$
+SSB00090219|lun2 dun1 de5 % lou2 pan2 % you3 shen2 me5 $|伦敦的%楼盘%有什么$
+SSB00090282|ni3 % zhi1 dao4 % you3 ge4 % nian2 qing1 % nan2 hair2 zai4 % zhe4 % li3 yan1 % si3 ma5|你%知道%有个%年轻%男孩儿%在%这里%淹死吗$
+SSB00090344|wo3 % lai2 dao4 % yi2 ge4 % da4 fang2 jian1 $|我%来到%一个%大房间$
+SSB00090290|bing4 % wan2 shan4 % gan1 xi1 gu4 ju1 % zhou1 bian1 % pei4 tao4 % she4 shi1 $|并%完善%甘熙故居%周边%配套%设施$
+SSB00090190|tong1 lian2 wang3 ba1 $|通联网吧$
+SSB00090363|li3 hong2 zhang1 % shu1 ji2 % you3 shen2 me5 $|李鸿章%书籍%有什么$
+SSB00090156|xiang1 gang2 % yan3 yuan2 % wu5 wu2 qi3 li4 $ kai1 tong1 % wei1 bo2 hou4 $ shou3 ci4 % geng1 bo2 $|香港%演员%吴吴绮莉$开通%微博后$首次%更博$
+SSB00090064|xiao2 qi3 ye4 de5 % kui1 sun3 mian4 $ bu2 hui4 bi3 % da4 qi3 ye4 shao3 $|小企业的%亏损面$不会比%大企业少$
+SSB00090302|shai4 chu1 le5 % xiao3 long2 nv3 $ wu2 zhuo2 lin2 de5 % jin4 zhao4 $|晒出了%小龙女$吴卓林的%近照$

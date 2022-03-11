@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e148aa0a-1d82-4e93-955c-9c708c20aeef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="67374c8a-38e6-474a-a6f4-78d6088b8c58" />
+  <component name="ProjectId" id="269E2xebSHxK4g5R2RUJExOqLKc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/helper" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\mandarin-tts-mtts\helper" />
+      <recent name="C:\Users\Administrator\Desktop\mandarin-tts-mtts" />
+      <recent name="C:\Users\Administrator\Desktop\mandarin-tts-mtts\aishell3\outputs" />
+      <recent name="C:\Users\Administrator\Desktop\mandarin-tts-mtts\mtts\models\vocoder\VocGAN\model" />
+      <recent name="C:\Users\Administrator\Desktop\mandarin-tts-mtts\mtts\models\vocoder\waveglow\tacotron2\waveglow\tacotron2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_for_one_text">
+    <configuration name="gp2py (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mandarin-tts-mtts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helper/gp2py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gp2py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mandarin-tts-mtts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mtts/text" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mtts/text/gp2py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainForAll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mandarin-tts-mtts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainForAll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mandarin-tts-mtts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_for_one_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mandarin-tts-mtts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_for_one_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_for_one_text" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.gp2py (1)" />
+        <item itemvalue="Python.gp2py" />
+        <item itemvalue="Python.mainForAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e148aa0a-1d82-4e93-955c-9c708c20aeef" name="Default Changelist" comment="" />
+      <created>1646827198141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646827198141</updated>
+      <workItem from="1646827200086" duration="44936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Deployment" timestamp="1646875432301">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1646875432301" />
+    <state width="1133" height="438" key="DebuggerActiveHint" timestamp="1646991281885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1133" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1646991281885" />
+    <state width="1237" height="190" key="GridCell.Tab.0.bottom" timestamp="1646991465821">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="190" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1646991465821" />
+    <state width="1237" height="190" key="GridCell.Tab.0.center" timestamp="1646991465821">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="190" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1646991465821" />
+    <state width="1237" height="190" key="GridCell.Tab.0.left" timestamp="1646991465821">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="190" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1646991465821" />
+    <state width="1237" height="190" key="GridCell.Tab.0.right" timestamp="1646991465821">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="190" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1646991465821" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1646991389022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1646991389022" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1646991389022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1646991389022" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1646991389022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1646991389022" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1646991389022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1646991389022" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1646985003730">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1646985003730" />
+    <state x="561" y="56" width="617" height="490" key="find.popup" timestamp="1646987445186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="561" y="56" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1646987445186" />
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup" timestamp="1646987853475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1646987853475" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11111111.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mainForAll.py</url>
+          <line>353</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run.py</url>
+          <line>290</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/helper/gp2py.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="conf[key]['scp']" />
+        <watch expression=" len(dataloader)" />
+        <watch expression="config['pinyin_embedding']" />
+        <watch expression="config['fbank']['n_mels']" />
+        <watch expression="model.load_state_dict(content)" />
+        <watch expression="data[-2]" />
+        <watch expression="data" />
+        <watch expression="self.config['fbank']['n_mels']" />
+        <watch expression="[d[:, idx] if i == 0 else d[idx] for i, d in enumerate(data)]" language="Python" />
+        <watch expression="config['training']['batch_split']" />
+        <watch expression=" [d[:, i * k:(i + 1) * k] if j == 0 else d[i * k:(i + 1) * k] for j, d in enumerate(data)]" />
+        <watch expression="self.embeding_weights[i]" />
+        <watch expression="self.emb_layers[i](texts[i])" />
+        <watch expression="texts[i]" />
+        <watch expression="get_sinusoid_encoding_table(seq_len, self.hidden_dim)" />
+        <watch expression="mask" />
+        <watch expression="torch.bmm(q, k.transpose(1, 2))" />
+        <watch expression=" config['duration_predictor']['duration_mean']" />
+        <watch expression="x" />
+        <watch expression="vec.expand(int(expand_size), -1)" />
+        <watch expression="self.conv1(x)" />
+        <watch expression="src_mask" />
+        <watch expression="~src_mask" />
+        <watch expression="**config['vocoder'][vocoder_name]" />
+        <watch expression="config['vocoder'][vocoder_name]" />
+        <watch expression="input" />
+        <watch expression="[' '.join((s.split() * n)[:n]) if len(s.split()) != n else s for s in segments]" />
+        <watch expression="args.text" />
+        <watch expression="text.split()" />
+        <watch expression="text" />
+        <watch expression="py_list" />
+        <watch expression="gp_list" />
+        <watch expression="self._split2sent(gp_text)" />
+        <watch expression="out" />
+        <watch expression="numpy.concatenate(out,axis=0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mandarin_tts_mtts$gp2py__1_.coverage" NAME="gp2py (1) Coverage Results" MODIFIED="1646989289435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helper" />
+    <SUITE FILE_PATH="coverage/mandarin_tts_mtts$gp2py.coverage" NAME="gp2py Coverage Results" MODIFIED="1646988872288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mtts/text" />
+    <SUITE FILE_PATH="coverage/mandarin_tts_mtts$run_for_one_text.coverage" NAME="run_for_one_text Coverage Results" MODIFIED="1646991452911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mandarin_tts_mtts$run.coverage" NAME="run Coverage Results" MODIFIED="1646989292018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mandarin_tts_mtts$mainForAll.coverage" NAME="mainForAll Coverage Results" MODIFIED="1646986718832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mandarin_tts_mtts$11111111.coverage" NAME="11111111 Coverage Results" MODIFIED="1646909170582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,65 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+
+    "go.goroot": "/usr/local/go",
+    "go.gopath": "/Users/bill/code/go",
+    "go.enableCodeLens": {"references": false, "runtest": false},
+    "go.addTags": {},
+    "go.alternateTools": {},
+    "go.toolsManagement.autoUpdate": true,
+    "go.useLanguageServer": true,
+    "[go]": {
+        "editor.snippetSuggestions": "none",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "gopls": {
+        "staticcheck": true,
+        "usePlaceholders": true,    // add parameter placeholders when completing a function
+        "completeUnimported": true, // autocomplete unimported packages
+        "deepCompletion": true      // enable deep completion
+    },
+    "go.lintFlags": [
+        "-checks=all"
+    ],
+
+    "editor.fontSize": 14,
+    "editor.formatOnType": true,
+    "editor.mouseWheelZoom": false,
+    "editor.rulers": [80,120],
+    "editor.trimAutoWhitespace": true,
+    "editor.minimap.enabled": false,
+
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/dist/public": true,
+        "**/tmp": true,
+        "**/tags": true,
+        "**/public/dist": true,
+        "**/.vscode": true
+    },
+    "files.trimTrailingWhitespace": false,
+    "editor.wordWrap": "off",
+    "workbench.colorCustomizations": {
+        "editorLineNumber.foreground": "#9F9F9F"
+    },
+    "extensions.ignoreRecommendations": true,
+    "liveshare.featureSet": "insiders",
+    "workbench.colorTheme": "Zenburn",
+    "C_Cpp.updateChannel": "Insiders",
+    "go.coverOnTestPackage": false,
+    "liveshare.anonymousGuestApproval": "accept",
+    "editor.folding": false,
+    "explorer.compactFolders": false,
+    "files.associations": {
+        "*.go2": "go"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": 2,
+    "terminal.integrated.tabs.enabled": true,
+}

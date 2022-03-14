@@ -18,7 +18,7 @@ logger = get_logger(__file__)
 
 
 def __read_vocab(file):
-    with open(file) as f:
+    with open(file,encoding='utf-8') as f:
         lines = f.read().split('\n')
     lines = [line for line in lines if len(line) > 0]
     return lines

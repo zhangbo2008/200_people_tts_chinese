@@ -46,7 +46,7 @@ class Tokenizer:
         if vocab_file is None:
             self.vocab = None
         else:
-            self.vocab = open(vocab_file).read().split('\n')
+            self.vocab = open(vocab_file,encoding='utf-8').read().split('\n')
             self.v2i = {c: i for i, c in enumerate(self.vocab)}
 
     def tokenize(self, text: Union[str, List]) -> Tensor:

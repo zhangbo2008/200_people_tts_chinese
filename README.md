@@ -1,3 +1,9 @@
+run_for_English_and_chinese_my_laptop.py  最新的中英文混合朗读tts
+
+
+
+
+
 
 1. 训练代码是mainForAll.py
 2. 运行代码是run_for_one_text.py 最上面输入语句即可.

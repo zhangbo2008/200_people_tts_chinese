@@ -1,15 +1,23 @@
-ttttttt='''aaaaaaaaa我不是.你是吗.到底我是不是'''
-speakerid=40
+ttttttt='''我不是.你是吗.到底我是不是'''
+speakerid=100
+silence_between_sentence=0.7 # 逗号句号问号这些符号统一的暂停时间.
+SPECIAL_NOTES = '。？！?!.;；:,，:'
+
+
+
+
+
 
 
 
 with open('gp.vocab') as f:
     tmp=[i.strip() for i in f.readlines()]
+
 print(111111111)
 
 #============过滤掉字典中没有的东西.
-ttttttt=''.join([i for i in ttttttt if i in tmp])
-print(1)
+# ttttttt=''.join([i for i in ttttttt if i in tmp])
+# print(1)
 
 import argparse
 import os
@@ -75,7 +83,7 @@ from typing import List
 import jieba
 import pypinyin
 
-SPECIAL_NOTES = '。？！?!.;；:,，:'
+
 
 
 def read_vocab(file: os.PathLike) -> List[str]:
@@ -234,6 +242,7 @@ if __name__ == '__main__':
 
        kkk2=str(a)+'|'+out+'|'+str(speakerid)
        kkk.append(kkk2)
+    print(1)
 
 
 
@@ -309,7 +318,24 @@ if __name__ == '__main__':
         wav = vocoder(mel_postnet)
         out.append(wav)
         import numpy
-    wav=numpy.concatenate(out,axis=0)
+    wav = numpy.concatenate(out, axis=0)
+    if 0:
+        if out:
+            wav=out[0]
+            for i in range(len(out)-1):
+                wav2=numpy.zeros([sr*silence_between_sentence]).astype('float32')
+                wav=numpy.concatenate([wav,wav2],axis=0)
+            wav = numpy.concatenate([wav, out[-1]], axis=0)
+        # wav=numpy.concatenate(out,axis=0)
+        # if 1:#根据自己的需要加入沉默时间
+        #     wav2=numpy.zeros([sr*10]).astype('float32')
+        #     wav=numpy.concatenate([wav,wav2],axis=0)
+
+
+
+
+
+
 
 
     if 1:

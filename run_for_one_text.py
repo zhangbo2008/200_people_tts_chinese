@@ -1,9 +1,15 @@
-ttttttt='''我不是.你是吗.到底我是不是'''
+ttttttt='''aaaaaaaaa我不是.你是吗.到底我是不是'''
 speakerid=40
 
 
 
+with open('gp.vocab') as f:
+    tmp=[i.strip() for i in f.readlines()]
+print(111111111)
 
+#============过滤掉字典中没有的东西.
+ttttttt=''.join([i for i in ttttttt if i in tmp])
+print(1)
 
 import argparse
 import os
